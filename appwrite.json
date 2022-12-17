@@ -1,0 +1,21 @@
+{
+    "projectId": "639dfe411ffde5438130",
+    "projectName": "appwrite_stripe",
+    "functions": [
+        {
+            "$id": "639e0f0abb430f3aae66",
+            "name": "function_stripe",
+            "runtime": "dart-2.17",
+            "path": "functions/function_stripe",
+            "entrypoint": "lib/main.dart",
+            "ignore": [
+                ".packages",
+                ".dart_tool"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
